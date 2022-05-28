@@ -1,0 +1,5 @@
+لینک خرید کتاب
+https://www.oreilly.com/library/view/ai-and-machine/9781492078180/
+
+لینک کدهای کتاب
+https://github.com/lmoroney/tfbook
